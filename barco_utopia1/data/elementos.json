@@ -1,0 +1,94 @@
+[
+    {
+        "titulo": "VIOLENCIA PSICOLÓGICA",
+        "texto": "Es toda acción que tiene por intención lastimar o hacer sentir mal emocional o mentalmente.",
+        "ejemplos": [
+            "Te critica constantemente",
+            "Te insulta",
+            "Te reclama por salir con amigos(as)",
+            "Controla la forma en que te vistes o maquillas",
+            "Te hace bromas hirientes",
+            "Te ridiculiza",
+            "Te hace sentir menos",
+            "Te ignora o aplica la 'ley del hielo'",
+            "Te amenaza",
+            "Te chantajea para que hagas lo que él quiera",
+            "Te cela constantemente "
+        ],
+        "imagen": "img001"
+    },
+    {
+        "titulo": "VIOLENCIA FÍSICA",
+        "ejemplos": [
+            "Te golpea, empuja, patea, araña, pellizca y/o muerde",
+            "Te da cachetadas",
+            "Te jala el cabello",
+            "Utiliza algún objeto para golpearte",
+            "No te deja salir",
+            "Apaga cigarros en tu cuerpo"
+        ],
+        "texto": "Es cuando una persona usa la fuerza física y lesiona cualquier parte de tú cuerpo de manera intencional. Incluye el uso de objetos y armas.",
+        "imagen": "img002"
+    },
+    {
+        "titulo": "VIOLENCIA PATRIMOINAL",
+        "texto": "Es dañar objetos, documentos personales, bienes o recursos económicos. ",
+        "ejemplos": [
+            "Daña, destruye, oculta o retiene tus objetos y/o documentos personales (acta de nacimiento tuya o de hijas e hijos, escrituras, identificaciones, pasaporte)",
+            "Te quita tu tarjeta de apoyos económicos",
+            "Te niega herencias",
+            "Te prohíbe tener bienes y/o cuentas propias",
+            "Te corre de la casa",
+            "Saca tus pertenencias a la calle "
+        ],
+        "imagen": "img003"
+    },
+    {
+        "titulo": "VIOLENCIA ECONÓMICA",
+        "texto": "Es todo acto que busca afectar o controlar la economía de las mujeres, a través de limitar los ingresos.",
+        "ejemplos": [
+            "Controla y/o te quita tu  dinero ",
+            "No te da pensión alimenticia ",
+            "Te da un gasto insuficiente para la manutención de hijas o hijos ",
+            "Te compra lo que necesitas pero no te permite tener dinero propio",
+            "Cuestiona todo lo que compras ",
+            "Tienes que rendir cuentas de todo lo que gastas",
+            "Te condiciona el acceso a recursos",
+            "Genera deudas a tu nombre "
+        ],
+        "imagen": "img003"
+    },
+    {
+        "titulo": "VIOLENCIA SEXUAL",
+        "texto": "Es el daño, degradación o acciones que limitan a tomar decisiones sobre el cuerpo de las mujeres jóvenes y niñas  por considerarlo objeto de placer.",
+        "ejemplos": [
+            "Te obliga a tener prácticas sexuales ",
+            "Violarte",
+            "Manosearte sin tu consentimiento",
+            "Grabarte mientras tienenen relaciones sexuales sin tu consentimiento o difundir dichos videos",
+            "Te prohíbe utilizar algún método anticonceptivo",
+            "Se quita el condón durante la relación sexual",
+            "Te obliga a interrumpir tu embarazo "
+        ],
+        "imagen": "img001"
+    },
+    {
+        "titulo": "VIOLENCIA FEMINICIDA",
+        "texto": "Es la forma extrema de violencia contra las mujeres y puede culminar en asesinato de manera violenta.",
+        "ejemplos": [
+            "Apuñalarte",
+            "Atropellarte",
+            "Mutilarte",
+            "Ahorcarte",
+            "Dispararte",
+            "Asesinarte",
+            "Golpearte hasta dejarte inconsciente",
+            "Envenenarte",
+            "Asfixiarte",
+            "Aventarte ácido en la cara y otras partes del cuerpo",
+            "Prenderte fuego ",
+            "Linchamiento"
+        ],
+        "imagen": "img001"
+    }
+]
